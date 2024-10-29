@@ -4,9 +4,7 @@ public class Variables {
 
 	public static void main(String[] args) {
 		
-		int count = 5;
-		
-		System.out.println(count);
+		System.out.print("Hello");
 
 	}
 }

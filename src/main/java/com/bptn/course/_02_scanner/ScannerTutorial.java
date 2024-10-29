@@ -1,3 +1,5 @@
+package com.bptn.course._02_scanner;
+
 
 // Import the Scanner class from the java.util package
 import java.util.Scanner;
